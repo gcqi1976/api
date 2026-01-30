@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/vodtv/api/refs/heads/main/jin18.txt
 ```
 👉 Base58编码订阅链接[精简版🎬+🔞源链接](https://https://mconfig.viptv.work?config=0&encode=base58) （推荐使用自己部署的代理）精简版剔除无搜索结果和污染搜索结果源                             
 ```bash
-https://https://mconfig.viptv.work?config=0&encode=base58
+https://mconfig.viptv.work?config=0&encode=base58
 ```
 ```bash
 https://raw.githubusercontent.com/vodtv/api/refs/heads/main/jingjian.txt
@@ -238,4 +238,5 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞黄色仓库 | [Link](https://hsckzy.xyz) | [Link](https://hsckzy.xyz/api.php/provide/vod) | ✅ | 27 | 3 | 90.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞黑料资源 | [Link](https://heiliaozy.cc) | [Link](https://www.heiliaozyapi.com/api.php/provide/vod) | ✅ | 2 | 0 | 100.0% | -----✅✅ |
 <!-- API_TABLE_END -->
+
 
